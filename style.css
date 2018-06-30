@@ -1,0 +1,65 @@
+.bottom-border{
+    padding-bottom: 1rem;
+    border-bottom: 0.05rem solid gainsboro;
+    margin-bottom: 1rem;
+  }
+  
+  .right-border{
+    border-right: 0.05rem solid gainsboro;
+  }
+  
+  .col-1-articles{
+    margin-right: 0.5rem;
+  }
+  
+  .col-3-articles{
+    margin-left: 0.5rem;
+  }
+
+  .jumbotron.jumbotron-fluid {
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+      border-bottom: solid black;
+  }
+
+  .nav.justify-content-center {
+      margin: 0px 10;
+      border-bottom: .05rem solid gainsboro;
+  }
+
+  .nav-item {
+      font-size: 15px;
+  }
+
+  .nav-link.active {
+      padding: 5px;
+      color: black;
+  }
+
+  .nav-link.disabled {
+      padding: 5px;
+      color: black;
+  }
+
+  .display-4.text-center {
+      font-family: 'Times New Roman', Times, serif;
+      font-family: bold;
+      font-size: 100px;
+  }
+
+  .lead.text-center {
+      font-family: 'Times New Roman', Times, serif;
+      }
+
+  .container {
+      background-color: white;
+  }
+
+  .jumbotron {
+      background-color: white;
+  }
+
+  .row-bottom-border-col-1-articles{
+      text-align: center;
+      padding-right: 0px;
+  }
